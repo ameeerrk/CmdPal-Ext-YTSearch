@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "ytSearch (Package)": {
+      "commandName": "MsixPackage",
+      "doNotLaunchApp": true
+    },
+    "ytSearch (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}

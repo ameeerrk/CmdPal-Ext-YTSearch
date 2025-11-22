@@ -1,0 +1,5 @@
+C:\Users\ZBOOK\OneDrive\Desktop\Lab\Command Pallete\ytSearch\ytSearch\obj\Debug\net9.0-windows10.0.26100.0\ytSearch.csproj.AssemblyReference.cache
+C:\Users\ZBOOK\OneDrive\Desktop\Lab\Command Pallete\ytSearch\ytSearch\obj\Debug\net9.0-windows10.0.26100.0\ytSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZBOOK\OneDrive\Desktop\Lab\Command Pallete\ytSearch\ytSearch\obj\Debug\net9.0-windows10.0.26100.0\ytSearch.AssemblyInfoInputs.cache
+C:\Users\ZBOOK\OneDrive\Desktop\Lab\Command Pallete\ytSearch\ytSearch\obj\Debug\net9.0-windows10.0.26100.0\ytSearch.AssemblyInfo.cs
+C:\Users\ZBOOK\OneDrive\Desktop\Lab\Command Pallete\ytSearch\ytSearch\obj\Debug\net9.0-windows10.0.26100.0\ytSearch.csproj.CoreCompileInputs.cache
